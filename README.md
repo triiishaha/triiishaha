@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  B.Tech in Mathematics and Computing @ Rajiv Gandhi Institute of Petroleum Technology 🎓<br>
+  🎓 B.Tech in Mathematics and Computing @ Rajiv Gandhi Institute of Petroleum Technology <br>
   I build machine learning and full-stack projects, turning data into things that actually work.
 </p>
 

@@ -4,13 +4,13 @@
 
 <p align="center">
   B.Tech in Mathematics and Computing @ Rajiv Gandhi Institute of Petroleum Technology 🎓<br>
-  I build machine learning and full-stack projects, and I'm currently comparing pretrained CNN architectures for medical image classification 🧬
+  
 </p>
 
 <p align="center">
   🔬 Interested in <b>ML</b> and <b>MedTech</b> — using computer vision and applied ML to solve healthcare problems<br>
-  🧠 Leveling up my <b>Data Structures & Algorithms</b> game, one problem at a time — building sharper problem-solving instincts along the way<br>
-  🚀 Always down to build something cool — open to internships, collabs, and interesting dev opportunities
+  🧠 Leveling up my <b>Data Structures & Algorithms</b> game, building sharper problem-solving instincts along the way<br>
+  🚀 Always down to build something cool — open to internships, collabs, and interesting opportunities
 </p>
 
 <br>

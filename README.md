@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Research%20Intern-IIT%20Delhi-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=triiishaha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
 </p>

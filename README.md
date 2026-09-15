@@ -4,7 +4,7 @@
 
 <p align="center">
   B.Tech in Mathematics and Computing @ Rajiv Gandhi Institute of Petroleum Technology 🎓<br>
-  
+  I build machine learning and full-stack projects, turning data into things that actually work.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   🚀 Always down to build something cool — open to internships, collabs, and interesting opportunities
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 
 ## ⚡ Tech Stack
 
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 
 ## 📫 Let's Connect
 
@@ -60,7 +60,7 @@
   <img src="https://media.giphy.com/media/xUOxfjsW7wpkFyafDe/giphy.gif" width="200">
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%">
 
 ## 🐍 Contribution Snake
 

@@ -42,41 +42,6 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/triiishaha/sickle-cell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=triiishaha&repo=sickle-cell&theme=radical&hide_border=true" />
-      </a>
-      <p>🩸 Compared ConvNeXt V2, InceptionNeXt & EfficientNetV2 via transfer learning to classify sickle cell blood smears — 92.6% accuracy, 0.96 AUC-ROC.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/triiishaha/SheWorks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=triiishaha&repo=SheWorks&theme=radical&hide_border=true" />
-      </a>
-      <p>👩‍🔧 MERN-stack platform giving gig and field workers safer, fairer access to opportunities, with Face API + Google Maps for identity verification and location. Built as a team project for IEEE's Code for Her event.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/triiishaha/student-performance-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=triiishaha&repo=student-performance-prediction&theme=radical&hide_border=true" />
-      </a>
-      <p>📊 Linear regression model predicting students' final grades from the UCI Student Performance dataset — full ML workflow from preprocessing to evaluation.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/triiishaha/leetcode-solutions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=triiishaha&repo=leetcode-solutions&theme=radical&hide_border=true" />
-      </a>
-      <p>🧩 My accepted LeetCode submissions, auto-synced to GitHub every week via a GitHub Action.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📫 Let's Connect
 
 <p align="center">

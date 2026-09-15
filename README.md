@@ -3,13 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research%20Intern-IIT%20Delhi-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=triiishaha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
 </p>
 
 <p align="center">
   B.Tech in Mathematics and Computing @ Rajiv Gandhi Institute of Petroleum Technology 🎓<br>
-  I build machine learning and full-stack projects, and I'm currently comparing pretrained CNN architectures for medical image classification as a Research Intern at IIT Delhi 🧬
+  I build machine learning and full-stack projects, and I'm currently comparing pretrained CNN architectures for medical image classification 🧬
 </p>
 
 <p align="center">
@@ -55,7 +54,7 @@
       <a href="https://github.com/triiishaha/sickle-cell">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=triiishaha&repo=sickle-cell&theme=radical&hide_border=true" />
       </a>
-      <p>🩸 Compared ConvNeXt V2, InceptionNeXt & EfficientNetV2 via transfer learning to classify sickle cell blood smears — 92.6% accuracy, 0.96 AUC-ROC. Built during my research internship at IIT Delhi.</p>
+      <p>🩸 Compared ConvNeXt V2, InceptionNeXt & EfficientNetV2 via transfer learning to classify sickle cell blood smears — 92.6% accuracy, 0.96 AUC-ROC.</p>
     </td>
     <td width="50%">
       <a href="https://github.com/triiishaha/SheWorks">

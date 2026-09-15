@@ -13,7 +13,8 @@
 
 <p align="center">
   🔬 Interested in <b>ML</b> and <b>MedTech</b> — using computer vision and applied ML to solve healthcare problems<br>
-  🧠 Currently sharpening my <b>DSA in C++</b>, one problem at a time
+  🧠 Actively learning <b>Data Structures & Algorithms (DSA)</b> while strengthening my problem-solving and software development skills<br>
+  🤝 Open to internships, collaborations, and exciting development opportunities
 </p>
 
 <br>
